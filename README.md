@@ -1,2 +1,2 @@
 # JenkinsPractice
-This repository is to explain the Jenkins working
+This repository is to explain the Jenkins build when code is commited.
