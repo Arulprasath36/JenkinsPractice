@@ -1,2 +1,2 @@
 # JenkinsPractice
-This repo is to explain the jenkins working
+This repository is to explain the jenkins working
